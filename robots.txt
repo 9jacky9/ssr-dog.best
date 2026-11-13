@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://ssr-dog.best/sitemap.xml
